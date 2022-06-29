@@ -9,6 +9,8 @@ Repositório criado para o Desafio de Projeto.
 
 [Comandos Git] https://comandosgit.github.io/ 
 
+[Atalhos do Teclado VS Code] https://docs.microsoft.com/pt-br/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022
+
 [HTML] https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 [CSS] https://developer.mozilla.org/pt-BR/docs/Web/CSS
