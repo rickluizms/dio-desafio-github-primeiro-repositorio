@@ -16,3 +16,5 @@ Repositório criado para o Desafio de Projeto.
 [CSS] https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
 [Javascript] https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+[Js Strict mode] https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode
